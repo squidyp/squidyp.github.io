@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://squidyp.github.io/assets/css/styles.css">
 ---
 layout: post
 title:  "Hello, World!"
