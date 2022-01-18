@@ -4,7 +4,7 @@ title:  "CAC on a Mac"
 date:   2022-01-18 15:37:37 -0800
 categories: diy
 ---
-[![CAC on a Mac](https://squidyp.github.io/assets/img/cac-on-mac.png)](https://www.youtube.com/watch?v=fdoTEmQUBr4&t=404s)<br>
+[![CAC on a Mac](https://squidyp.github.io/assets/img/cac-on-mac.png)](https://www.youtube.com/watch?v=fdoTEmQUBr4&t=404s){:target="_blank"}<br>
 (Click on the image to start watching on YouTube)
 
 In this video we will set up Windows virtual machine to run on top of your MacOS. This method is for the Intel based Macs, not the Apple Silicon Macs (such as the M1 chip). This is not duel booting the computer, I have found driver compatibility issue when duel booting so I prefer this method and it works every time. 
