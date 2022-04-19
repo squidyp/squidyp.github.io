@@ -28,7 +28,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "squidyp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: squidy_p
 github_username:  squidyp
-youtube_username: Hack Mode
+youtube_username: squidyp
 
 # Build settings
 theme: minima
